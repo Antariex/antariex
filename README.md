@@ -2,7 +2,7 @@
 
 ### ¡Hola! Saludos desde el otro lado de la pantalla... 👋
 
-😄 Empecemos con un poco sobre mí: vivo en Buenos Aires, Argentina, tengo treinta y cinco años, y mi campo de trabajo principal es el derecho, en el que durante ya algún tiempo me desempeño como abogado y docente. Aunque un siempre presente gusto por la tecnología (en especial el desarrollo web) me ha llevado a buscar en nuevas y emocionantes áreas en las que estoy empezando a dar mis primeros paso.
+😄 Empecemos con un poco sobre mí: vivo en Buenos Aires, Argentina, tengo treinta y cinco años, y mi campo de trabajo principal es el derecho, en el que durante ya algún tiempo me desempeño como abogado y docente. Aunque un siempre presente gusto por la tecnología (en especial el desarrollo web) me ha llevado a buscar en nuevas y emocionantes áreas en las que estoy empezando a dar mis primeros pasos.
 
 🌱 Actualmente soy estudiante del curso de programación web full stack de Digital House, en donde estoy aprendiendo sobre JavaScript (ay, dios, JavaScript...), NodeJS, html, css, metodologías de desarrollo, Express, React, Apis, bases de datos y muchas cosas más. A la vez, complemento my aprendizaje con los curso de freeCodeCamp y Codecademy (dos sitios excelentes, en los que me emociona aprender).
 
