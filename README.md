@@ -1,3 +1,5 @@
+> *You don't have to be great to start, but you have to start to be great.* Zig Ziglar
+
 ### ¡Hola! Saludos desde el otro lado de la pantalla... 👋
 
 😄 Empecemos con un poco sobre mí: vivo en Buenos Aires, Argentina, tengo treinta y cinco años, y mi campo de trabajo principal es el derecho, en el que durante ya algún tiempo me desempeño como abogado y docente. Aunque un siempre presente gusto por la tecnología (en especial el desarrollo web) me ha llevado a buscar en nuevas y emocionantes áreas en las que estoy empezando a dar mis primeros paso.
@@ -18,3 +20,5 @@
 
 Nos vemos.
 ¡Sigan programando!
+
+> *Without hard work, nothing grows but weeds.* Gordon B. Hinckley
