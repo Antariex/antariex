@@ -10,7 +10,6 @@
 
 ⚡ Algunos datos random:
 
-+ Estoy casado;
 + Tengo dos gatos naranjas: Oliver y Tony;
 + Me gustan mucho los mangas, el cómic y la literatura en general;
 + Aunque sea antiguo y algo anticuado, quiero aprender Cobol en algún momento (no, no es broma);
