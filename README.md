@@ -16,7 +16,7 @@
 + Aunque sea antiguo y algo anticuado, quiero aprender Cobol en algún momento (no, no es broma);
 + También soy estudiante de chino y creo que esa práctiva previa con el idioma del gigante asiático me ayudó a entrar al mundo de la programación con menos miedo (sí, JavaScript, hay cosas peores que vos). Memorizar tonos y caracteres puede ser tan emocionante y frustrante como un error de sintaxis en el código o una tarea que sale bien por primera vez.
 
-📫 Me pueden encontrar en arielantequiera@gmail.com, en Instagram o Twitter con el mismo nick que aquí.
+📫 Me pueden encontrar en arielantequiera@gmail.com, en Instagram y Twitter con el mismo nick que aquí.
 
 Nos vemos.
 ¡Sigan programando!
