@@ -18,7 +18,7 @@
 📫 Me pueden encontrar en:
 
 [![Gmail Badge](https://img.shields.io/badge/-@arielantequiera@gmail.com-gray?style=flat&labelColor=red&logo=gmail&logoColor=white&link=mailto:arielantequiera@gmail.com)](mailto:arielantequiera@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Marcos%20Della%20Vecchia-gray?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arielantequiera/)](https://www.linkedin.com/in/arielantequiera/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Ariel%20Antequiera-gray?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arielantequiera/)](https://www.linkedin.com/in/arielantequiera/)
 [![Twitter Badge](https://img.shields.io/badge/-@antariex-gray?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/antariex)](https://twitter.com/antariex)
 
 Nos vemos.
