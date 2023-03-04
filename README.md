@@ -25,7 +25,7 @@
 
 <br>
 
-:wink: Empecemos con un poco sobre mí: vivo en Buenos Aires, Argentina, tengo treinta y seis años, y mi campo de trabajo principal es el derecho, en el que durante ya algún tiempo me desempeño como abogado y docente. Aunque un siempre presente gusto por la tecnología (en especial el desarrollo web) me ha llevado a buscar en esta area en las que estoy empezando a dar mis primeros pasos.
+:wink: Empecemos con un poco sobre mí: vivo en Buenos Aires, Argentina, tengo treinta y seis años, y aunque mi campo de trabajo ha sido el derecho, en el que me desempeño como abogado y docente, un siempre presente gusto por la tecnología (en especial el desarrollo web) me ha llevado a buscar en esta area en la que estoy iniciando.
 
 :mortar_board: Completé el curso de programación web full stack en Digital House, en donde aprendí sobre JavaScript, NodeJS, html, css, metodologías de desarrollo, Express, React, Apis y bases de datos. Tambíén realicé los cursos de Codo a Codo para poder aprender Java y Spring. A la vez, complemento mi aprendizaje con los cursos de Codecademy y Platzi (dos sitios excelentes, en los que me emociona aprender).
 
