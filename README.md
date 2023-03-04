@@ -24,13 +24,17 @@
 </div>
 
 <br>
+<br>
+ 
 
-:wink: Empecemos con un poco sobre mí: vivo en Buenos Aires, Argentina, tengo treinta y seis años, y aunque mi campo de trabajo ha sido el derecho, en el que me desempeño como abogado y docente, un siempre presente gusto por la tecnología (en especial el desarrollo web) me ha llevado a buscar en esta area en la que estoy iniciando.
-
-:mortar_board: Completé el curso de programación web full stack en Digital House, en donde aprendí sobre JavaScript, NodeJS, html, css, metodologías de desarrollo, Express, React, Apis y bases de datos. Tambíén realicé los cursos de Codo a Codo para poder aprender Java y Spring. A la vez, complemento mi aprendizaje con los cursos de Codecademy y Platzi (dos sitios excelentes, en los que me emociona aprender).
-
-Actualmente me encuentro cursando la carrera de grado en desarrollo de software en BYU-Idaho (Brigham Young University), la cual espero me sea de utilidad para mejorar mis fundamentos en las bases de la programación, testing y patrones de diseño. 
-
+- :round_pushpin:  Buenos Aires, Argentina
+- :calendar:  36 años
+- :briefcase:  He trabajado como abogado y docente
+- :computer:  El gusto por la tecnología (en especial el desarrollo web) me llevó a buscar en esta area en la que estoy iniciando.
+- :books:  Completé el curso de programación web full stack en Digital House, en donde aprendí sobre JavaScript, NodeJS, html, css, metodologías ágiles, Express, React, Apis y bases de datos. Tambíén realicé los cursos de Codo a Codo para aprender Java y Spring.
+- :orange_book:	 A su vez, complemento mi aprendizaje con los cursos de Codecademy y Platzi.
+- :mortar_board:  Actualmente me encuentro cursando la carrera de grado en desarrollo de software en BYU-Idaho (Brigham Young University), la cual me permitirá mejorar mis fundamentos en las bases de la programación, testing y patrones de diseño. 
+<br>
 <div dsplay="inline-block">
  
 <h4 align="left">📫 Me pueden encontrar en:</h4>
