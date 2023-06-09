@@ -26,7 +26,6 @@
  
 
 - :round_pushpin:  Buenos Aires, Argentina
-- :calendar:  36 años
 - :briefcase:  He trabajado como abogado y docente
 - :computer:  El gusto por la tecnología (en especial el desarrollo web) me llevó a buscar en esta area en la que estoy iniciando.
 - :books:  Completé el curso de programación web full stack en Digital House, en donde aprendí sobre JavaScript, NodeJS, html, css, metodologías ágiles, Express, React, Apis y bases de datos. Tambíén realicé los cursos de Codo a Codo para aprender Java y Spring.
