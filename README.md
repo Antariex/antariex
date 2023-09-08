@@ -1,4 +1,4 @@
-### ¡Hola! Saludos desde el otro lado de la pantalla... 👋
+# ¡Hola! Saludos desde el otro lado de la pantalla... 👋
 <br>
 <div align="center">
   <a href="https://github.com/antariex">
@@ -9,12 +9,12 @@
 <br>
 <br>
  
+- 💻  Freelance full-stack web developer
 - :round_pushpin:  Buenos Aires, Argentina
 - :briefcase:  He trabajado como abogado y docente
-- :computer:  El gusto por la tecnología (en especial el desarrollo web) me llevó a buscar en esta area en la que estoy iniciando.
-- :books:  Completé el curso de programación web full stack en Digital House, en donde aprendí sobre JavaScript, NodeJS, html, css, metodologías ágiles, Express, React, Apis y bases de datos. Tambíén realicé los cursos de Codo a Codo para aprender Java y Spring.
+- :books:  Completé el curso de programación web full stack en Digital House, en donde aprendí sobre JavaScript, NodeJS, html, css, metodologías ágiles, Express, React, Apis y bases de datos. Tambíén realicé los cursos de Codo a Codo para aprender Java, Spring y desarrollo mobile.
 - :orange_book:	 A su vez, complemento mi aprendizaje con los cursos de Codecademy y Platzi.
-- :mortar_board:  Actualmente me encuentro cursando la carrera de grado en desarrollo de software en BYU-Idaho (Brigham Young University), la cual me permitirá mejorar mis fundamentos en las bases de la programación, testing y patrones de diseño. 
+- :mortar_board:  Actualmente me encuentro cursando la carrera de grado en desarrollo de software en BYU-Idaho (BYU Pathway Worldwide). 
 <br>
 <div dsplay="inline-block">
 
@@ -38,7 +38,7 @@
 <br><br>
 Y alguna más...
 <br><br>
-## Me puedes encontrar:
+## Me puedes encontrar en:
 
 <a href="https://linktr.ee/antariex" target="_blank"><img src="https://img.shields.io/badge/-LinkTree-%08d474?style=for-the-badge&logo=LinkTree&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/arielantequiera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
