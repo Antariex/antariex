@@ -36,8 +36,6 @@
 <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"> GitHub
 <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> Linux
 <br><br>
-Y alguna más...
-<br><br>
 ## Me puedes encontrar en:
 
 <a href="https://linktr.ee/antariex" target="_blank"><img src="https://img.shields.io/badge/-LinkTree-%08d474?style=for-the-badge&logo=LinkTree&logoColor=white" target="_blank"></a> 
