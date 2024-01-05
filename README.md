@@ -59,6 +59,15 @@
 
 <br>
 
+## Últimos proyectos:
+
+Aquí hay algunos de los proyectos en los que he estado trabajando últimamente
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antariex&repo=CoffeeMasters&theme=dracula)](https://github.com/Antariex/CoffeeMasters) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antariex&repo=AntariexDev&theme=dracula)](https://https://github.com/Antariex/AntariexDev)
+
+<br>
+
 ## Encuéntrame en:
 
 <a href="https://linktr.ee/antariex" target="_blank">
