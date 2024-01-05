@@ -2,14 +2,13 @@
 
 <div align="center">
   <a href="https://github.com/antariex">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=antariex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=antariex&hide_rank=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=antariex&theme=dracula&hide_border=false"/>
   </a>
 </div>
 
-<br>
 <br>
 
 - 💻  Desarrollador web full-stack freelance
@@ -18,12 +17,11 @@
 - :books:  Completé varios cursos de programación web full stack, así como otros para aprender Java y desarrollo móvil
 - :mortar_board:  Actualmente cursando la licenciatura en informática (UNLP) y la carrera de grado en desarrollo de software (BYU-Idaho) 
 
-<br><br>
+<br>
 
 ## Tecnologías:
 
 <img height="195em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antariex&layout=compact&langs_count=8&theme=dracula"/>
-
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -57,7 +55,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-<br><br>
+<br>
 
 ## Encuéntrame en:
 
@@ -77,16 +75,17 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
 </a>
 <a href="mailto:arielantequiera@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.s-hields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 <a href="https://api.whatsapp.com/send?phone=+5491135834708&amp;text=Hola%20Ariel!" rel="nofollow">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge" style="max-width: 100%;">
 </a>
 
-
-<br>
 <br>
 
 ¡Nos vemos!
 ¡Sigan programando!
-> *Sin trabajo duro, nada crece excepto las malas hierbas.* Gordon B. Hinckley
+
+<br>
+
+> *Whiout hard work, nothing grows but weeds.* Gordon B. Hinckley
