@@ -2,8 +2,9 @@
 <br>
 <div align="center">
   <a href="https://github.com/antariex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antariex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antariex&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=antariex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antariex&theme=dracula&hide_border=false"/> 
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antariex&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 <br>
@@ -12,9 +13,8 @@
 - 💻  Freelance full-stack web developer
 - :round_pushpin:  Buenos Aires, Argentina
 - :briefcase:  He trabajado como abogado y docente
-- :books:  Completé el curso de programación web full stack en Digital House, en donde aprendí sobre JavaScript, NodeJS, html, css, metodologías ágiles, Express, React, Apis y bases de datos. Tambíén realicé los cursos de Codo a Codo para aprender Java, Spring y desarrollo mobile.
-- :orange_book:	 A su vez, complemento mi aprendizaje con los cursos de Codecademy y Platzi.
-- :mortar_board:  Actualmente me encuentro cursando la carrera de grado en desarrollo de software en BYU-Idaho (BYU Pathway Worldwide). 
+- :books:  Completé varios cursos de programación web full stack y también otros para aprender Java, Spring y desarrollo mobile.
+- :mortar_board:  Actualmente me encuentro cursando la licenciatura en informática (UNLP) y la carrera de grado en desarrollo de software (BYU-Idaho). 
 <br>
 <div dsplay="inline-block">
 
