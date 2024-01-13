@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/antariex">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=antariex&hide_rank=true&show_icons=true&theme=dracula"/>
+    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=antariex&hide_rank=true&show_icons=true&theme=dracula&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=antariex&theme=dracula&hide_border=false"/>
@@ -14,8 +14,8 @@
 - 💻  Desarrollador web full-stack freelance
 - :round_pushpin:  Buenos Aires, Argentina
 - :briefcase:  Experiencia como abogado y docente
-- :books:  Completé varios cursos de programación web full stack, así como otros para aprender Java y desarrollo móvil
-- :mortar_board:  Actualmente cursando la licenciatura en informática (UNLP) y la carrera de grado en desarrollo de software (BYU-Idaho) 
+- :books:  Completé varios cursos de programación web full stack, así como otros para aprender Java y desarrollo mobile
+- :mortar_board:  Actualmente estoy cursando la licenciatura en informática (UNLP) y la carrera de grado en desarrollo de software (BYU-Idaho) 
 
 <br>
 
@@ -63,6 +63,22 @@
 
 <br>
 
+## ¿Qué estoy haciendo actualmente?
+
+- 🌱 Estoy enfocado en avanzar como desarrollador full-stack, tratando de mejorar mis bases en lógica de programación, algoritmos y en el uso de distintas herramientas (TypeScript, frameworks como NextJS o librerías como TaildwindCSS). Todo esto para ser capaz de crear aplicaciones web más robustas y escalables.
+
+- 🚀 Mi objetivo principal es mejorar en el dominio del stack que ya vengo trabajando, para poder hacer desarrollos más complejos y profesionales, de extremo a extremo, con interfaces de usuario más atractivas y una arquitectura de backend eficiente.
+
+- 📖 El aprendizaje es un proceso continuo, y estoy emocionado de estar en este trayecto de crecimiento y exploración. Por eso, sigo estudiando, prácticando y aprendiendo. En este semestre, estoy estudiando las bases de JavaScript, una introducción a las bases de datos, programación con clases (usando C#), matemáticas y algoritmos.
+
+- 🔭 Ahora, aprovechando el [curso de App Router de NextJS](https://nextjs.org/learn/dashboard-app), estoy adaptando y complentando el resultado del mismo para terminar un [Dashboard](https://github.com/Antariex/nextjs-dashboard) de administración (como para un e-commerce) con autenticación, renderizado dinámico, búsqueda, paginación, CRUD (de usuarios, pedidos y productos) y conexión con una base de datos relacional. Asimismo, estoy comenzando mi portfolio personal para poder recopilar los deploys de todos mis proyectos, mi curriculum, un pequeño blog y medios de contacto (pero todavía está en etapas iniciales).
+
+<br>
+
+> *Without hard work, nothing grows but weeds.* Gordon B. Hinckley
+
+<br>
+
 ## Encuéntrame en:
 
 <a href="https://linktr.ee/antariex" target="_blank">
@@ -94,5 +110,3 @@
 ¡Sigan programando!
 
 <br>
-
-> *Whiout hard work, nothing grows but weeds.* Gordon B. Hinckley
