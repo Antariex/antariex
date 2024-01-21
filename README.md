@@ -70,7 +70,7 @@
 
 - 📖 El aprendizaje es un proceso continuo, y estoy emocionado de estar en este trayecto de crecimiento y exploración. Por eso, sigo estudiando, prácticando y aprendiendo. En este semestre, estoy estudiando las bases de JavaScript, una introducción a las bases de datos, programación con clases (usando C#), matemáticas y algoritmos.
 
-- 🔭 Ahora, aprovechando el [curso de App Router de NextJS](https://nextjs.org/learn/dashboard-app), estoy adaptando y complentando el resultado del mismo para terminar un [Dashboard](https://github.com/Antariex/nextjs-dashboard) de administración (como para un e-commerce) con autenticación, renderizado dinámico, búsqueda, paginación, CRUD (de usuarios, pedidos y productos) y conexión con una base de datos relacional. Asimismo, estoy comenzando mi portfolio personal para poder recopilar los deploys de todos mis proyectos, mi curriculum, un pequeño blog y medios de contacto (pero todavía está en etapas iniciales).
+- 🔭 Ahora, aprovechando el [curso de App Router de NextJS](https://nextjs.org/learn/dashboard-app), estoy adaptando y complentando el resultado del mismo para terminar un [Dashboard](https://github.com/Antariex/nextjs-dashboard) de administración (como para un e-commerce) con autenticación, renderizado dinámico, búsqueda, paginación, CRUD (de usuarios, pedidos y productos) y conexión con una base de datos relacional. Asimismo, estoy comenzando mi portfolio personal para poder recopilar los deploys de todos mis proyectos, mi curriculum, un pequeño blog y medios de contacto.
 
 <br>
 
