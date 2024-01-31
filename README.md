@@ -88,9 +88,6 @@
 <a href="https://twitter.com/antariex" target="_blank">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank">
 </a>
-<a href="https://www.facebook.com/arielantequiera/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank">
-</a>
 <a href="https://www.instagram.com/antariex/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
 </a>
