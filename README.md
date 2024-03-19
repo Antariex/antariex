@@ -50,13 +50,13 @@
 
 ## ¿Qué estoy haciendo actualmente?
 
-- 🌱 Estoy enfocado en avanzar como desarrollador full-stack, tratando de mejorar mis bases en lógica de programación, algoritmos y en el uso de distintas herramientas (TypeScript, frameworks como NextJS o librerías como TaildwindCSS). Todo esto para ser capaz de crear aplicaciones web más robustas y escalables.
+- 🌱 Estoy enfocado en avanzar como desarrollador full-stack, tratando de mejorar mis bases en lógica de programación, algoritmos y en el uso de distintas herramientas. Todo esto para ser capaz de crear aplicaciones web más robustas y escalables.
 
 - 🚀 Mi objetivo principal es mejorar en el dominio del stack que ya vengo trabajando, para poder hacer desarrollos más complejos y profesionales, de extremo a extremo, con interfaces de usuario más atractivas y una arquitectura de backend eficiente.
 
-- 📖 El aprendizaje es un proceso continuo, y estoy emocionado de estar en este trayecto de crecimiento y exploración. Por eso, sigo estudiando, prácticando y aprendiendo. En este semestre, estoy estudiando las bases de JavaScript, una introducción a las bases de datos, programación con clases (usando C#), matemáticas y algoritmos.
+- 📖 El aprendizaje es un proceso continuo, y estoy emocionado de estar en este trayecto de crecimiento y exploración. Por eso, sigo estudiando, prácticando y aprendiendo. En este semestre, estoy estudiando Java, bases de datos (MySQL), matemáticas y algoritmos.
 
-- 🔭 Ahora, aprovechando el [curso de App Router de NextJS](https://nextjs.org/learn/dashboard-app), estoy adaptando y complentando el resultado del mismo para terminar un [Dashboard](https://github.com/Antariex/nextjs-dashboard) de administración (como para un e-commerce) con autenticación, renderizado dinámico, búsqueda, paginación, CRUD (de usuarios, pedidos y productos) y conexión con una base de datos relacional. Asimismo, estoy comenzando mi portfolio personal para poder recopilar los deploys de todos mis proyectos, mi curriculum, un pequeño blog y medios de contacto.
+- 🔭 Asimismo, estoy comenzando mi portfolio personal para poder recopilar los deploys de todos mis proyectos, mi curriculum, un pequeño blog y medios de contacto.
 
 <br>
 
