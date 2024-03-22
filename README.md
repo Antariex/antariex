@@ -11,8 +11,8 @@
 
 <br>
 
-- 💻  Desarrollador web full-stack
-- :round_pushpin:  Vivo en Buenos Aires, Argentina
+- 💻  Desarrollador full-stack
+- :round_pushpin:  Vivo en Argentina
 - :briefcase:  Tengo experiencia como abogado y docente
 - :books:  Completé varios cursos de programación web full stack, así como otros para aprender Java y desarrollo mobile
 - :mortar_board:  Actualmente estoy cursando la licenciatura en informática (UNLP) y la carrera de grado en desarrollo de software (BYU-Idaho) 
